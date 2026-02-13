@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Cauã 
 
-**`Desenvolvedor FullStack`**
+**`Estudante de programação`**
 
 Me chamo Cauã Torbes Vieira, tenho 21 anos e sou natural do Paraná. Estou cursando Análise e Desenvolvimento de Sistemas no IFPR. 
 <p align="left">
